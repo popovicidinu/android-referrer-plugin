@@ -12,6 +12,12 @@
     "type": "git",
     "url": "git+https://github.com/popovicidinu/android-referrer-plugin.git"
   },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=4.3.0"
+    }
+  ],
   "keywords": [
     "android",
     "cordova",
