@@ -8,6 +8,10 @@
       "android",
     ]
   },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popovicidinu/android-referrer-plugin.git"
+  },
   "keywords": [
     "android",
     "cordova",
